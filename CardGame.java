@@ -1,5 +1,4 @@
-import java.util.*;
-import java.util.Arrays; 
+import java.util.*; 
 class Carrd{
     private int face;
     private String suit;    
